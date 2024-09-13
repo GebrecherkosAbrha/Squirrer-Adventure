@@ -19,6 +19,36 @@
    ```bash
    git clone https://github.com/GebrecherkosAbrha/Squirrer-Adventure.git
    ```
+2.  **Navigate to the Project Directory:**
+
+   ```bash
+       cd Squirrer-Adventure
+   ```
+3. **Set Up a Virtual Environment (Optional but recommended):**
+   ```bash
+   python -m venv venv
+   ```
+   - **Activate the Virtual Environment:**
+     **On Windows:**
+
+     ```bash
+         venv\Scripts\activate
+     ```
+     **On macOS/Linux:**
+          ```bash
+         source venv/bin/activate
+     ```
+
+   4. **Install the Required Packages:**
+   
+    ```bash
+     pip install pygame pyyaml
+    ```
+   5. **Run the Game:**
+      ```bash
+      python squirrer.py
+      ```
+
 
 ### Gameplay
 
