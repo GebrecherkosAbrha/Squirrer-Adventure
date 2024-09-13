@@ -1,7 +1,5 @@
 ﻿# Squirrer-Adventure
 
-# Squirrer-Adventure
-
 **Squirrer-Adventure** is a fun and engaging game developed using Python and Pygame. The objective of the game is to guide a squirrel to collect acorns while avoiding obstacles. The game increases in difficulty as the player progresses through levels.
 
 ## Features
