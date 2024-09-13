@@ -37,7 +37,7 @@
      **On macOS/Linux:**
           ```bash
          source venv/bin/activate
-     ```
+         ```
 
    4. **Install the Required Packages:**
    
